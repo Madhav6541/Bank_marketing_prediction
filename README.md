@@ -10,7 +10,7 @@ The bank marketing dataset used in this project comes from the UCI Machine Learn
 - scikit
 - seaborn
 - matplotlib
-We use these libraries to import, read , visualise, and analyse the dataset
+- We use these libraries to import, read , visualise, and analyse the dataset
 ### Approach
 Logistic Regression
 It is used to calculate or predict the probability of a binary (yes/no) event occurring. It is an example of supervised learning where we predict the probability of an event given the input data
