@@ -1,7 +1,7 @@
 # Logistic_regression_using-sklearn-matplotlib-pandas
 ### Aim
 Here our goal is to predict whether a particular customer will respond positively when contacted as part of a marketing campaign.
-The bank marketing dataset used in this project comes from the UCI Machine Learning Repository.
+The bank marketing dataset used in this project comes from the UCI Machine Learning Repository. link https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
 Libraries used
 Numpy
