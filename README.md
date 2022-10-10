@@ -14,5 +14,5 @@ The bank marketing dataset used in this project comes from the UCI Machine Learn
 ### Approach
 Logistic Regression
 It is used to calculate or predict the probability of a binary (yes/no) event occurring. It is an example of supervised learning where we predict the probability of an event given the input data
-###Result
+### Result
 Using Logistic Regression we achieved an accuracy of 80.7% which means 80.7% of the customers will reply positively on the marketing campaign.
