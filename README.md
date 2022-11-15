@@ -16,4 +16,4 @@ Logistic Regression
 It is used to calculate or predict the probability of a binary (yes/no) event occurring. It is an example of supervised learning where we predict the probability of an event given the input data
 ### Result
 Using Logistic Regression we achieved an accuracy of 80.7% which means 80.7% of the customers will reply positively on the marketing campaign.
-###creating this particularly for contribution
+
